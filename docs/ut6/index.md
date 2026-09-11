@@ -418,11 +418,6 @@ una persona experta en ciberseguridad en la nube, dado que las responsabilidades
 incidentes cambian al trabajar con un proveedor de software como servicio (SaaS) (UD6, Caso
 práctico).
 
-![Persona con gafas de realidad virtual analizando el motor de un vehículo en un taller](img_resumen/caso_practico_taller_automocion.png)
-*Figura del caso práctico: un técnico usa un simulador de realidad aumentada para practicar el
-mantenimiento de motores, una de las siete medidas del proyecto de digitalización del taller de
-Fuenlabrada.*
-
 > **Ejemplo actual — SAP S/4HANA Cloud en pymes industriales.** Igual que en el caso práctico del
 > taller de Fuenlabrada, numerosas pymes industriales españolas han migrado su ERP a SAP S/4HANA
 > en la nube en los últimos años, atraídas por la posibilidad de pagar por uso y por la
