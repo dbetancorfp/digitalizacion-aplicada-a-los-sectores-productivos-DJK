@@ -1,15 +1,11 @@
 # UT3 — Cloud computing
 
-> Resumen de estudio elaborado a partir de los materiales de la carpeta «UT3 - Cloud computing».
-> Estructurado según los Contenidos de la UT3 de la programación del módulo DJK
-> (Digitalización aplicada a los sectores productivos, 1.º DAM).
-
 ## De qué va esta unidad
 
-Todos usamos la nube a diario aunque no la veamos: cuando subes una foto a Google Fotos,
-ves una serie en streaming, editas un documento con un compañero a distancia o juegas
-en Xbox Cloud Gaming sin tener una consola potente en casa, hay un centro de datos en
-alguna parte del mundo haciendo el trabajo pesado por ti. Esta unidad explica **qué es
+La nube se usa a diario, aunque no siempre resulte evidente: al subir una foto a Google
+Fotos, ver una serie en streaming, editar un documento colaborativamente a distancia o
+jugar en Xbox Cloud Gaming sin disponer de una consola potente, hay un centro de datos en
+alguna parte del mundo realizando el trabajo pesado. Esta unidad explica **qué es
 exactamente esa "nube"**, cómo se organiza en niveles de servicio, y por qué las empresas
 —no solo los particulares— han apostado tan fuerte por ella.
 
@@ -19,16 +15,16 @@ datos lejano y esperar respuesta ya no vale. Por eso han surgido modelos "más c
 casa": **edge, fog y mist computing**, que acercan el procesamiento al lugar donde nacen
 los datos. Esta unidad conecta directamente con el **RA3** de la programación: identificar
 los sistemas basados en cloud/nube y su influencia en el desarrollo de los sistemas
-digitales. También veremos el lado económico (¿de verdad compensa pagar por uso en vez
+digitales. También se analiza el lado económico (¿de verdad compensa pagar por uso en vez
 de comprar servidores?), el lado ambiental (la nube también puede ser sostenible, o no) y
 el lado más delicado: qué puede salir mal en la nube y cómo evitarlo.
 
-## Qué deberías saber hacer al terminar (resultados de aprendizaje)
+## Qué se espera saber hacer al terminar (resultados de aprendizaje)
 
-Al acabar esta unidad, según el **RA3** de la programación, deberías ser capaz de:
+Al finalizar esta unidad, conforme al **RA3** de la programación, se debe ser capaz de:
 
 - **Identificar los diferentes niveles de la nube** (IaaS, PaaS, SaaS) y distinguir qué
-  gestiona el proveedor y qué gestiona tú en cada uno.
+  gestiona el proveedor y qué gestiona el usuario en cada uno.
 - **Reconocer las principales funciones de la nube**: procesar datos, almacenar
   información, ejecutar aplicaciones, intercambiar información entre dispositivos y
   personas, entre otras.
@@ -45,30 +41,31 @@ Al acabar esta unidad, según el **RA3** de la programación, deberías ser capa
 ## 1. Nube, definición y niveles. Cloud computing
 
 **La nube (cloud)** es un modelo de prestación de servicios tecnológicos a través de
-Internet: en lugar de ejecutar programas o guardar archivos en tu propio ordenador, accedes
-a recursos informáticos (procesamiento, almacenamiento, bases de datos, redes, software)
-que están físicamente en centros de datos de un proveedor externo. No necesitas saber
-dónde está ese centro de datos ni cómo está montado por dentro; simplemente te conectas
-y lo usas.
+Internet: en lugar de ejecutar programas o guardar archivos en un ordenador propio, se
+accede a recursos informáticos (procesamiento, almacenamiento, bases de datos, redes,
+software) que están físicamente en centros de datos de un proveedor externo. No es
+necesario saber dónde está ese centro de datos ni cómo está montado por dentro: basta con
+conectarse y usarlo.
 
 El término tiene un origen curioso: viene de los diagramas de redes de los años 70-80, donde
 se dibujaba literalmente una nube para representar "todo ese sistema complejo cuya
 infraestructura interna no importa al usuario". La idea maduró con el *time-sharing* de los
 años 60 (varios usuarios compartiendo un mismo ordenador central) y la virtualización de los
 90, hasta que en **2006 Amazon lanzó AWS y su servicio EC2**, que popularizó el término
-"cloud computing" tal y como lo entendemos hoy. Aunque, en realidad, la puesta en práctica
+"cloud computing" tal y como se entiende hoy. Aunque, en realidad, la puesta en práctica
 del modelo ya había empezado antes: **Salesforce**, en 1999, fue de los primeros en ofrecer
 software como servicio a través de Internet.
 
 **Características principales** de cualquier servicio en la nube:
 
-- **Acceso bajo demanda:** consumes recursos cuando los necesitas, no antes.
+- **Acceso bajo demanda:** se consumen recursos cuando se necesitan, no antes.
 - **Elasticidad:** el sistema añade o quita recursos automáticamente según la carga de
   trabajo (ver el recuadro de escalabilidad más abajo).
-- **Pago por uso:** solo pagas por lo que realmente consumes, como la factura de la luz.
+- **Pago por uso:** solo se paga por lo que realmente se consume, como ocurre con la
+  factura de la luz.
 - **Acceso ubicuo:** desde cualquier dispositivo con conexión a Internet.
 - **Mantenimiento externalizado:** las actualizaciones y los parches los gestiona el
-  proveedor, no tú.
+  proveedor, no el cliente.
 
 > **Escalabilidad y elasticidad, sin confundirlas.** La *escalabilidad* es la capacidad de un
 > sistema de crecer para soportar más carga de trabajo. Puede ser **vertical** (*scale up*:
@@ -86,14 +83,14 @@ software como servicio a través de Internet.
 Los servicios cloud se organizan en tres niveles, según cuánto control tiene el usuario y
 cuánto asume el proveedor. Es lo que en los apuntes de la unidad se llama el "modelo de
 responsabilidad compartida", y conviene visualizarlo como capas de un pastel: cuantas más
-capas gestiona el proveedor, menos tienes que preocuparte tú, pero también menos control
-tienes.
+capas gestiona el proveedor, menos debe ocuparse el usuario, aunque también dispone de
+menos control.
 
-| Nivel | Qué entrega el proveedor | Qué gestionas tú | Ejemplos |
+| Nivel | Qué entrega el proveedor | Qué gestiona el usuario | Ejemplos |
 | --- | --- | --- | --- |
 | **IaaS** (Infraestructura como Servicio) | Máquinas virtuales, almacenamiento en red, redes virtuales, firewalls | Sistema operativo y todas las aplicaciones | Amazon EC2, Azure Virtual Machines, Google Compute Engine |
-| **PaaS** (Plataforma como Servicio) | Todo lo de IaaS + sistema operativo, bases de datos, servidores web, herramientas de despliegue | Solo tus datos y el desarrollo de tus aplicaciones | Google App Engine, Heroku, Azure App Services |
-| **SaaS** (Software como Servicio) | La pila completa, incluida la propia aplicación | Nada de infraestructura: solo usas el software | Google Workspace, Microsoft 365, Salesforce, Dropbox |
+| **PaaS** (Plataforma como Servicio) | Todo lo de IaaS + sistema operativo, bases de datos, servidores web, herramientas de despliegue | Solo los datos propios y el desarrollo de las aplicaciones | Google App Engine, Heroku, Azure App Services |
+| **SaaS** (Software como Servicio) | La pila completa, incluida la propia aplicación | Nada de infraestructura: solo se usa el software | Google Workspace, Microsoft 365, Salesforce, Dropbox |
 
 ![Niveles tradicionales de la nube: SaaS, PaaS e IaaS](img_resumen/niveles_iaas_paas_saas.png)
 *Figura: los tres niveles de servicio, de menor a mayor control por parte del usuario:
@@ -128,8 +125,8 @@ sistemas. Origen: apuntes propios "UT 3 Cloud Computing".*
 > se ha convertido en la opción minoritaria, no en la norma.
 
 ### Ideas clave de esta sección
-- La nube separa "dónde están físicamente los datos" de "quién y cómo los usa": accedes
-  por Internet sin preocuparte de la infraestructura.
+- La nube separa "dónde están físicamente los datos" de "quién y cómo los usa": se accede
+  por Internet sin necesidad de ocuparse de la infraestructura.
 - IaaS, PaaS y SaaS reparten de forma creciente la responsabilidad hacia el proveedor.
 - Escalabilidad (crecer) y elasticidad (ajustarse automáticamente arriba y abajo) son
   conceptos relacionados pero no idénticos.
@@ -143,7 +140,7 @@ cómo trabajan empresas y particulares. Los apuntes de la unidad las agrupan as�
 
 **Procesamiento y almacenamiento de datos.** La nube permite ejecutar tareas pesadas
 —análisis de big data, renderizado, entrenamiento de modelos de IA— sin depender de la
-potencia de tu equipo local; el trabajo real ocurre en máquinas virtuales y contenedores del
+potencia de un equipo local; el trabajo real ocurre en máquinas virtuales y contenedores del
 proveedor, que escalan automáticamente. El almacenamiento en la nube añade
 **redundancia** (copias de los mismos datos en varios servidores o regiones, para que un
 fallo de uno no suponga perder nada) y permite desplegar bases de datos SQL (MySQL,
@@ -164,8 +161,8 @@ completas (Azure Web Apps, AWS Elastic Beanstalk), y ha impulsado el uso de
 **contenedores** —paquetes ligeros con una aplicación y sus dependencias, sin necesidad
 de llevar un sistema operativo completo como haría una máquina virtual— gestionados con
 **Docker** y orquestados con **Kubernetes**. También ha popularizado el modelo
-**serverless**, del que forma parte el **FaaS (Function as a Service)**: subes una función
-de código que la nube ejecuta solo cuando ocurre un evento concreto, y solo pagas por ese
+**serverless**, del que forma parte el **FaaS (Function as a Service)**: se sube una función
+de código que la nube ejecuta solo cuando ocurre un evento concreto, y solo se paga por ese
 instante de ejecución. Serverless es el concepto amplio (incluye bases de datos y
 almacenamiento "sin servidor"); FaaS es la pieza que ejecuta funciones puntuales.
 
@@ -174,7 +171,7 @@ almacenamiento "sin servidor"); FaaS es la pieza que ejecuta funciones puntuales
 datos y almacenamiento gestionados sin servidor; FaaS se centra en ejecutar funciones
 puntuales disparadas por eventos. Origen: apuntes propios "UT 3 Cloud Computing".*
 
-**Intercambio de información.** La nube sincroniza datos entre dispositivos (tus fotos
+**Intercambio de información.** La nube sincroniza datos entre dispositivos (las fotos
 aparecen igual en el móvil y en el portátil), permite trabajo colaborativo en tiempo real
 (Google Docs, Microsoft 365, Figma) y facilita que distintas aplicaciones se comuniquen
 entre sí mediante **API** (interfaces que permiten a dos programas compartir datos o
@@ -196,7 +193,7 @@ de **DevOps** (integración y despliegue continuos).
   servicios mediante API.
 - Contenedores (Docker) + orquestación (Kubernetes) son la base técnica de muchas
   aplicaciones cloud modernas.
-- Serverless/FaaS lleva el "pago por uso" a su extremo: solo pagas por segundos de
+- Serverless/FaaS lleva el "pago por uso" a su extremo: solo se paga por segundos de
   ejecución real.
 
 ## 3. Edge computing y su relación con la nube
@@ -354,7 +351,7 @@ sin coste ni riesgo. Conviene conocer ambos lados para tomar decisiones informad
 ![Pasillo de un data center con armarios rack, servidores y ventiladores](img_resumen/data_center_racks.png)
 *Figura: el interior de un data center, con hileras de armarios rack llenos de servidores.
 Detrás de cada ventaja "invisible" de la nube (escalabilidad, disponibilidad) hay una
-infraestructura física real que el proveedor mantiene por ti. Origen: apuntes propios "UT 3
+infraestructura física real que el proveedor mantiene. Origen: apuntes propios "UT 3
 Cloud Computing".*
 
 ### Ideas clave de esta sección
@@ -514,8 +511,8 @@ interrupción del servicio.
 
 **La conclusión que atraviesa toda la unidad:** la seguridad en la nube funciona bajo un
 **modelo de responsabilidad compartida**. El proveedor protege la infraestructura física y
-la plataforma; tú, como cliente, eres responsable de configurar bien los accesos, proteger
-las credenciales y vigilar los permisos. La nube no es insegura por sí misma: lo peligroso es
+la plataforma; el cliente es responsable de configurar bien los accesos, proteger las
+credenciales y vigilar los permisos. La nube no es insegura por sí misma: lo peligroso es
 usarla sin las precauciones adecuadas.
 
 ### Ideas clave de esta sección
@@ -546,7 +543,7 @@ usarla sin las precauciones adecuadas.
 | **MFA (autenticación multifactor)** | Añadir una segunda comprobación de identidad, más allá de la contraseña. |
 | **Multitenencia** | Varios clientes comparten la misma infraestructura física del proveedor. |
 
-## Repaso: 8-10 preguntas para autoevaluarte
+## Repaso: preguntas de autoevaluación
 
 1. ¿Qué diferencia hay entre IaaS, PaaS y SaaS en cuanto a quién gestiona el sistema
    operativo?
@@ -564,7 +561,7 @@ usarla sin las precauciones adecuadas.
 <details>
 <summary>Respuestas (por sección)</summary>
 
-1. Sección 1 — en IaaS lo gestionas tú; en PaaS y SaaS lo gestiona el proveedor.
+1. Sección 1 — en IaaS lo gestiona el usuario; en PaaS y SaaS lo gestiona el proveedor.
 2. Sección 1 — escalabilidad es la capacidad de crecer; elasticidad es que ese ajuste sea
    automático y en ambas direcciones (subir y bajar).
 3. Sección 1 — reparte las peticiones entre varios servidores para evitar que uno se sature.
@@ -584,30 +581,3 @@ usarla sin las precauciones adecuadas.
 
 </details>
 
-## De dónde sale esto (fuentes de la carpeta)
-
-- `UT 3 Cloud Coomputing.pdf` — apuntes propios del docente, fuente principal: niveles de
-  servicio, escalabilidad/elasticidad, funciones de la nube, edge/fog/mist, ventajas y
-  desventajas, rentabilidad, sostenibilidad e incidentes de ciberseguridad.
-- `Sistemas basados en la nube.pdf` — material complementario con ejemplos cotidianos
-  (streaming, domótica, videojuegos en la nube), la comparativa nube vs. almacenamiento
-  local, y los casos reales de pérdida de datos por error humano.
-- `Guía Estratégica sobre Sistemas en la Nube_ Arquitectura, Eficiencia y Seguridad -
-  Documentos de Google.pdf` — fuente complementaria con datos y cifras de contexto
-  (adopción en consultoría, origen de Salesforce en 1999, cifras de sostenibilidad, caso de
-  la filtración de Microsoft de 2019).
-- `UD3.pdf` — libro de texto Paraninfo, escaneado sin capa de texto; se ha usado como
-  fuente de las imágenes (`img_resumen/`), ya recopiladas previamente en la carpeta.
-
-## Avisos
-
-- `Cómo_la_nube_reduce_costes_y_emisiones.m4a` — material de audio (podcast), no
-  analizado como texto en este resumen; queda pendiente de revisión por el docente si se
-  quiere incorporar contenido adicional.
-- Las cifras del apartado de sostenibilidad (32 Gt de CO₂, objetivo de 65 Gt) y de adopción
-  en consultoría (98 %/74 %) proceden de la "Guía Estratégica" y se presentan como
-  estimaciones del sector, no como datos verificados de forma independiente.
-- No se han encontrado contradicciones relevantes entre las fuentes: los tres documentos
-  con capa de texto coinciden en las definiciones de niveles de servicio, edge/fog/mist y
-  causas de incidentes de seguridad; donde una fuente añadía un matiz (por ejemplo, la
-  fecha de origen de Salesforce en 1999), se ha incorporado sin descartar el resto.

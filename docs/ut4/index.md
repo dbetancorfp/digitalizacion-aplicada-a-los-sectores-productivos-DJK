@@ -1,9 +1,5 @@
 # UT4 — Inteligencia Artificial
 
-> Resumen de estudio elaborado a partir de los materiales de la carpeta «UT4 - Inteligencia
-> Artificial». Estructurado según los Contenidos de la UT4 de la programación del módulo DJK
-> (Digitalización aplicada a los sectores productivos, 1.º DAM).
-
 ![Portada de la unidad: silueta robótica y humana tocándose los dedos, con el esquema de contenidos](img_resumen/portada_ut4_apuntes.png)
 *Figura: portada de los apuntes de la unidad. Resume visualmente la idea central: la IA como "punto de contacto" entre la máquina y el ser humano. Origen: `UT 4 Inteligencia artificial.pdf` (portada).*
 
@@ -12,27 +8,26 @@
 Todos los días interactuamos con inteligencia artificial (IA) sin apenas darnos cuenta:
 cuando el móvil sugiere la siguiente palabra al escribir, cuando Netflix recomienda una
 serie, cuando el banco bloquea una compra "rara" con la tarjeta o cuando le pedimos a
-ChatGPT o a Copilot que nos ayude a programar. Esta unidad, ligada al **RA4**, trata de que
-entiendas qué hay detrás de esa palabra tan usada —y tan mal usada— que es "inteligencia
-artificial": qué es realmente, de qué tipos existe, cómo "aprende" una máquina, por qué
-necesita datos para funcionar, en qué sectores productivos se está implantando con más
-fuerza, cómo se "extrae" conocimiento útil de los datos (minería de datos) y cómo la IA
-está potenciando al resto de tecnologías habilitadoras digitales (THD) que ya viste en la
-UT2.
+ChatGPT o a Copilot que nos ayude a programar. Esta unidad, ligada al **RA4**, explica qué
+hay detrás de esa palabra tan usada —y tan mal usada— que es "inteligencia artificial":
+qué es realmente, de qué tipos existe, cómo "aprende" una máquina, por qué necesita datos
+para funcionar, en qué sectores productivos se está implantando con más fuerza, cómo se
+"extrae" conocimiento útil de los datos (minería de datos) y cómo la IA está potenciando
+al resto de tecnologías habilitadoras digitales (THD) ya tratadas en la UT2.
 
 El hilo conductor es sencillo: **la IA no es magia, es matemáticas aplicadas a muchos
 datos**. Cuantos más datos de calidad tenga un sistema y mejor entrenado esté, mejor
-predice, clasifica o genera contenido. Como futuro técnico en desarrollo de aplicaciones
-multiplataforma, no vas a "inventar" IA desde cero, pero sí vas a **integrar servicios de
-IA en tus aplicaciones** (APIs, modelos ya entrenados, asistentes de código), así que
-entender sus tipos, sus límites y sus riesgos éticos y legales (protección de datos) es
-parte de tu perfil profesional.
+predice, clasifica o genera contenido. Para el perfil de técnico en desarrollo de
+aplicaciones multiplataforma, no se trata de "inventar" IA desde cero, sino de
+**integrar servicios de IA en las aplicaciones** que se desarrollen (APIs, modelos ya
+entrenados, asistentes de código); de ahí que entender sus tipos, sus límites y sus
+riesgos éticos y legales (protección de datos) forme parte de ese perfil profesional.
 
-## Qué deberías saber hacer al terminar (resultados de aprendizaje)
+## Qué se espera saber hacer al terminar la unidad (resultados de aprendizaje)
 
 Esta unidad desarrolla el **RA4**: *identificar aplicaciones de la IA en entornos del
 sector donde está enmarcado el título, describiendo las mejoras implícitas en su
-implementación*. En plata, al terminar la unidad deberías ser capaz de:
+implementación*. En resumen, al terminar la unidad se debe ser capaz de:
 
 - **Explicar** por qué la IA va más allá de la automatización clásica basada en reglas fijas
   y cómo ayuda a optimizar procesos.
@@ -44,7 +39,7 @@ implementación*. En plata, al terminar la unidad deberías ser capaz de:
 - **Nombrar** los principales lenguajes de programación que se usan para desarrollar
   sistemas de IA.
 - **Describir** cómo influye la IA concretamente en el sector de la programación y el
-  desarrollo de aplicaciones (tu sector).
+  desarrollo de aplicaciones.
 
 ---
 
@@ -369,11 +364,11 @@ partida para otra) y el ***fine-tuning*** (continuar entrenando un modelo preent
 un conjunto de datos pequeño y específico para adaptarlo a un dominio concreto, como la
 documentación legal de una empresa).
 
-> **Ejemplo actual — La IA que te ayuda a programar.** Herramientas como GitHub Copilot o
+> **Ejemplo actual — La IA como ayuda para programar.** Herramientas como GitHub Copilot o
 > Cursor son un buen ejemplo de deep learning aplicado al día a día de un desarrollador: son
 > modelos tipo Transformer entrenados con enormes cantidades de código público que sugieren
-> líneas o bloques completos mientras programas, a partir del contexto de tu propio
-> proyecto.
+> líneas o bloques completos mientras se programa, a partir del contexto del proyecto en
+> curso.
 
 ### Ideas clave de esta sección
 
@@ -558,9 +553,9 @@ cuidados personales. Casos reales citados como ejemplo son Inditex (gestión de 
 predicción de tendencias de consumo) o Amazon (automatización logística con robots, que a
 la vez incrementa la demanda de técnicos de mantenimiento robótico y analistas de datos).
 
-### 5.4 IA en nuestro sector: la programación agéntica
+### 5.4 IA en el sector de desarrollo de aplicaciones: la programación agéntica
 
-Aquí es donde esta unidad conecta directamente con tu perfil de DAM. Todo apunta a que la
+Aquí es donde esta unidad conecta directamente con el perfil de DAM. Todo apunta a que la
 IA transformará la programación tradicional hacia lo que se conoce como **programación
 agéntica**: un sistema donde la IA funciona como un desarrollador autónomo que razona,
 decide y ejecuta tareas completas, no solo sugiere código. Para entenderlo, conviene
@@ -648,7 +643,7 @@ mejorar la calidad del audio.
   percepción; los transversales, integración, ética y servicios.
 - La automatización transforma puestos de trabajo: destruye algunos rutinarios y crea otros
   ligados a datos y programación.
-- En nuestro sector, la IA avanza hacia la programación agéntica (ventana de contexto,
+- En el sector del desarrollo de aplicaciones, la IA avanza hacia la programación agéntica (ventana de contexto,
   tokens, RAG, skills, tools, MCP), que cambia el papel del técnico y del ingeniero.
 - Python es el lenguaje dominante en IA; LISP y Prolog fueron pioneros; Java, R, C++ y Julia
   tienen usos más específicos.
@@ -697,7 +692,7 @@ Aunque se usan casi como sinónimos, no son lo mismo:
 
 | Concepto | Qué aporta |
 | --- | --- |
-| **Big Data** | La materia prima y la capacidad de cálculo: infraestructura para almacenar y procesar volúmenes de datos que no caben en herramientas tradicionales (recuerda las 5 V del punto 4). |
+| **Big Data** | La materia prima y la capacidad de cálculo: infraestructura para almacenar y procesar volúmenes de datos que no caben en herramientas tradicionales (véanse las 5 V del punto 4). |
 | **Análisis de datos** | La interpretación orientada a negocio: examina los datos para obtener conclusiones que respondan preguntas concretas de la empresa. |
 | **Minería de datos** | El descubrimiento automático de patrones ocultos que un analista humano no encontraría solo "mirando" los datos, mediante técnicas algorítmicas (muchas de machine learning). |
 
@@ -816,7 +811,7 @@ empresas españolas, de cómo la IA se combina con otras THD:
   analiza vídeo para detectar amenazas a la posidonia en el Mediterráneo.
 
 ![Mapa conceptual completo de la unidad: inteligencia artificial, tipos de IA, evolución, la IA y los datos, relación con sectores productivos, IA y tratamiento de datos, lenguajes de programación](img_resumen/mapa_conceptual_ud4.png)
-*Figura: mapa conceptual resumen de la unidad (según la numeración del libro de referencia, que agrupa los contenidos de forma algo distinta a como los hemos visto aquí, pero cubre las mismas ideas). Origen: `UD4.pdf`.*
+*Figura: mapa conceptual resumen de la unidad (según la numeración del libro de referencia, que agrupa los contenidos de forma algo distinta a como se han presentado aquí, pero cubre las mismas ideas). Origen: `UD4.pdf`.*
 
 > **En las noticias — La nube y la IA generativa siguen avanzando.** A finales de 2024,
 > OpenAI puso a disposición del público general su herramienta de generación de vídeo Sora,
@@ -854,7 +849,7 @@ empresas españolas, de cómo la IA se combina con otras THD:
 | **Token / ventana de contexto** | Unidad de procesamiento de un modelo de lenguaje / cantidad máxima de texto que puede "recordar" a la vez. |
 | **THD** | Tecnologías Habilitadoras Digitales: el conjunto de tecnologías (IoT, robótica, Big Data, cloud, IA...) que impulsan la digitalización de una empresa. |
 
-## Repaso: 10 preguntas para autoevaluarte
+## Repaso: 10 preguntas de autoevaluación
 
 1. ¿Qué diferencia a la IA simbólica de la IA basada en datos?
 2. ¿Qué son las máquinas reactivas y qué las diferencia de los sistemas con memoria
@@ -879,46 +874,3 @@ empresas españolas, de cómo la IA se combina con otras THD:
 
 </details>
 
-## De dónde sale esto (fuentes de la carpeta)
-
-- `UT 4 Inteligencia artificial.pdf` — apuntes propios del docente (con capa de texto):
-  base de los puntos 1 (definición), 2.1 (tipos por arquitectura), 3.1-3.3 (aprendizaje,
-  redes neuronales), 4.1-4.2 (Big Data y ejemplos de empresas), 5.1 (sectores), 5.4
-  (programación agéntica) y 5.5 (lenguajes de programación).
-- `Inteligencia Artificial.pdf` ("Unidad 7") — apuntes propios complementarios, muy
-  completos: historia de la IA (punto 1.1), tipos de inteligencia humana y de IA (punto
-  2.2), proceso de aprendizaje y redes neuronales en detalle (punto 3), futuro y escenarios
-  de la IA, uso empresarial, aplicaciones por campo (robótica, impresión 3D, biometría,
-  RA/RV, IoT, blockchain, la nube — base entera del punto 7), nuevas funcionalidades (IA
-  empática y creativa, punto 5.6) y cambios en el mercado laboral (punto 5.3).
-- `UD4.pdf` — libro de texto Paraninfo (escaneado, sin capa de texto; leído como imágenes):
-  definiciones de IA, tipos I/II (punto 2.2), evolución de la IA en seis etapas (punto 1.1),
-  protección de datos y RGPD (punto 4.3), taxonomía de dominios *core*/transversales (punto
-  5.2), impacto de la automatización (punto 5.3), minería de datos (punto 6.1) y lenguajes
-  de programación (punto 5.5). Origen también de la mayoría de las imágenes de
-  `img_resumen/`.
-- `UT4 - Mineria de datos y la IA (ampliacion).md` — apuntes de ampliación del docente:
-  base casi completa del punto 6 (minería de datos, KDD, CRISP-DM, técnicas, ejemplos por
-  sector y riesgos éticos).
-- `Terminologias.odt` y `Terminología IA.odt` — glosarios de terminología de IA del
-  docente (el primero, más extenso y actualizado): clasificación funcional de la IA (punto
-  2.3), RLHF y *fine-tuning* (punto 3.1 y 3.3), y referencia al Reglamento Europeo de IA
-  (*EU AI Act*, mencionado en el punto 4.3).
-
-**Avisos:**
-
-- No se ha encontrado en ningún material de la carpeta el desarrollo específico del punto 7
-  como "contribución de la IA a las THD" con ese nombre; se ha reconstruido a partir del
-  apartado "7. Aplicaciones de la IA" de `Inteligencia Artificial.pdf`, que trata
-  exactamente las mismas tecnologías (robótica, impresión 3D, biometría, RA/RV, IoT,
-  blockchain, la nube) que se estudian como THD en la UT2.
-- Los dos glosarios de terminología (`Terminologias.odt` y `Terminología IA.odt`) se
-  solapan en gran parte de sus entradas; se ha usado la versión más extensa
-  (`Terminologias.odt`) como referencia principal y la más breve solo como confirmación.
-- No hay en la carpeta material en formato `.m4a` ni `.mp4`; todo el material de la unidad
-  es textual o de imagen, así que no ha quedado ningún contenido sin evaluar por este
-  motivo.
-- Las cifras concretas de modelos de IA (parámetros, tokens, fechas de lanzamiento) que
-  aparecen en los glosarios de terminología son las que constan literalmente en esos
-  archivos `.odt`; al ser un ámbito que evoluciona muy rápido, conviene contrastarlas si se
-  usan fuera de esta unidad.

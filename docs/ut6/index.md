@@ -1,21 +1,17 @@
 # UT6 — Proyecto de transformación digital
 
-> Resumen de estudio elaborado a partir de los materiales de la carpeta «UT6 - Proyecto de
-> transformación digital». Estructurado según los Contenidos de la UT6 de la programación del
-> módulo DJK (Digitalización aplicada a los sectores productivos, 1.º DAM).
-
 ## De qué va esta unidad
 
-Las cinco unidades anteriores te han dado las piezas sueltas: qué es la digitalización, qué
+Las cinco unidades anteriores han aportado las piezas sueltas: qué es la digitalización, qué
 tecnologías la hacen posible (THD), qué es la nube, qué es la inteligencia artificial y cómo se
-tratan los datos con seguridad. Esta unidad, la última del módulo, te pide **montar el puzle**:
+tratan los datos con seguridad. Esta unidad, la última del módulo, plantea **montar el puzle**:
 convertir todo eso en un **proyecto real** que una empresa pueda ejecutar, con un principio, un
 final, un presupuesto, unos responsables y un plan para que las personas de la empresa no se
 queden fuera del cambio.
 
-No es un ejercicio teórico. En algún momento de tu vida profesional —como programador o
+No es un ejercicio teórico. En algún momento de la vida profesional —como programador o
 programadora de aplicaciones, como responsable de IT o simplemente como empleado de una
-empresa que decide digitalizarse— formarás parte de un proyecto así: una pyme que quiere
+empresa que decide digitalizarse— es habitual formar parte de un proyecto así: una pyme que quiere
 implantar un ERP en la nube, una fábrica que conecta sus máquinas con sensores IoT, un comercio
 que estrena una tienda online. Saber estructurar ese proyecto (qué se hace, por qué, con qué
 valor para el negocio, qué puede salir mal y quién responde de cada cosa) marca la diferencia
@@ -25,9 +21,9 @@ Esta unidad desarrolla el **resultado de aprendizaje RA6**: *«Desarrolla un pro
 transformación digital de una empresa de un sector relacionado con el título, teniendo en cuenta
 los cambios que se deben producir en función de los objetivos de la empresa»*.
 
-## Qué deberías saber hacer al terminar (resultados de aprendizaje)
+## Qué se espera saber hacer al terminar la unidad (resultados de aprendizaje)
 
-Al terminar la unidad deberías ser capaz de:
+Al terminar la unidad se espera ser capaz de:
 
 - Identificar los **objetivos estratégicos** de una empresa y distinguir sus categorías
   (financieros, de crecimiento, de formación, dirigidos a la clientela).
@@ -247,7 +243,7 @@ dirección y con una finalidad común para lograr los objetivos planteados en su
 
 ### ¿Cuándo es digital una empresa?
 
-Podemos considerar que una empresa es digital cuando utiliza tecnologías digitales en todos los
+Se puede considerar que una empresa es digital cuando utiliza tecnologías digitales en todos los
 aspectos de sus operaciones —producción, gestión empresarial, finanzas, recursos humanos,
 *marketing*, atención al cliente, etc.— con el objetivo de mejorar su eficiencia y
 competitividad. La digitalización **no consiste en cambios radicales**, sino en la adopción
@@ -379,17 +375,16 @@ inversión realizada.
 
 ### ¿Cuánto valen realmente los datos?
 
-Cuando usamos aplicaciones populares que no cobran una cuota directa (redes sociales, buscadores,
-apps de mensajería), en realidad su modelo de negocio se basa en la **recopilación y
-monetización de los datos personales** de las personas usuarias: nuestras interacciones,
-preferencias y comportamientos se recopilan, analizan y se usan con fines comerciales, como la
-personalización de anuncios o la venta de datos a terceros (`6-2` §6). El valor de estos datos no
-siempre es fácil de cuantificar, pero es considerable: datos demográficos (edad, género,
-ubicación) permiten segmentar el mercado, y datos más específicos (patrones de compra,
-intereses) permiten afinar todavía más las estrategias comerciales. Aunque a nivel individual no
-se nos paga por nuestros datos, el valor colectivo de todos ellos se mide en cifras muy
-elevadas, porque son fundamentales para la publicidad, la tecnología y el comercio a nivel
-mundial (`6-2` §6.1).
+Cuando se usan aplicaciones populares que no cobran una cuota directa (redes sociales,
+buscadores, apps de mensajería), en realidad su modelo de negocio se basa en la **recopilación y
+monetización de los datos personales** de las personas usuarias: sus interacciones, preferencias
+y comportamientos se recopilan, analizan y se usan con fines comerciales, como la personalización
+de anuncios o la venta de datos a terceros (`6-2` §6). El valor de estos datos no siempre es
+fácil de cuantificar, pero es considerable: datos demográficos (edad, género, ubicación) permiten
+segmentar el mercado, y datos más específicos (patrones de compra, intereses) permiten afinar
+todavía más las estrategias comerciales. Aunque a nivel individual no se paga por esos datos, el
+valor colectivo de todos ellos se mide en cifras muy elevadas, porque son fundamentales para la
+publicidad, la tecnología y el comercio a nivel mundial (`6-2` §6.1).
 
 ### Las THD como generadoras de valor en el producto
 
@@ -903,7 +898,7 @@ de seguimiento y recursos humanos. Origen: `UD6.pdf`, pág. 147.*
 | **LMS** | *Learning Management System*: plataforma para gestionar la formación online de la plantilla. |
 | **Modelo ADKAR** | Modelo de gestión del cambio en 5 fases: Awareness, Desire, Knowledge, Ability, Reinforcement. |
 
-## Repaso: preguntas para autoevaluarte
+## Repaso: preguntas de autoevaluación
 
 1. ¿Cuáles son las dos finalidades principales que persigue un proyecto de transformación
    digital según la introducción de la unidad?
@@ -913,7 +908,7 @@ de seguimiento y recursos humanos. Origen: `UD6.pdf`, pág. 147.*
 5. ¿Qué apartados de un informe de viabilidad corresponden, en realidad, al cronograma y al
    presupuesto del proyecto?
 6. ¿Qué diferencia hay entre una barrera y un obstáculo dentro de un proyecto?
-7. Explica con tus palabras qué significan las siglas R, A, C e I de la matriz RACI y cuál es su
+7. Explica de forma resumida qué significan las siglas R, A, C e I de la matriz RACI y cuál es su
    «regla de oro» más importante.
 8. ¿Qué modelo de gestión del cambio propone las fases Awareness, Desire, Knowledge, Ability y
    Reinforcement?
@@ -946,29 +941,3 @@ de seguimiento y recursos humanos. Origen: `UD6.pdf`, pág. 147.*
 
 </details>
 
-## De dónde sale esto (fuentes de la carpeta)
-
-- **`UD6.pdf`** — *Unidad 6. Proyecto de transformación digital* (Ediciones Paraninfo), libro de
-  texto escaneado sin capa de texto: se han renderizado y leído sus 14 páginas (págs. 128-150).
-  Aporta el grueso del temario oficial: objetivos estratégicos, áreas de la empresa, ERP/CRM,
-  cloud, tratamiento de datos, informe de viabilidad, recursos humanos y el caso práctico del
-  taller de automoción/aviación.
-- **`6-1 Transformacion digital THD.pdf`** (idéntico a `Transformación digital gracias a las
-  THD.pdf`) — tecnologías inteligentes, edificios/hogares/fábricas/ciudades inteligentes y
-  utilidad de las THD por área de aplicación.
-- **`6-2 Aplicacion THD empresa.pdf`** (idéntico a `Aplicación de las THD en la empresa.pdf`) —
-  cuándo es digital una empresa, las THD en el desarrollo de productos, riesgos de las THD
-  (Internet de los Pagos), vulnerabilidades tecnológicas, hackers y ciberdelincuencia, el CISO y
-  el valor de los datos personales.
-- **`UT6 - Gestion de proyectos, barreras y RACI (ampliacion).md`** — epígrafes redactados por el
-  docente para completar la gestión formal del proyecto (ciclo de vida, alcance, EDT, Gantt, ruta
-  crítica, KPIs, enfoques predictivo/ágil), la identificación de barreras y su mitigación, y la
-  matriz RACI/RASCI con su ejemplo resuelto.
-
-**Material no textual, no evaluado:** `Transformación_Digital.mp4` y
-`PODCAST_Edificios_que_respiran_y_fábricas_autónomas.m4a`. Son vídeo y audio; no se han podido
-transcribir ni analizar con las herramientas disponibles (no son PDF, `.odt` ni texto), por lo
-que no se ha usado su contenido para este resumen. El propio archivo de ampliación de la unidad
-ya avisaba de que están «pendientes de revisión por el docente»: conviene visionarlos antes de
-dar la unidad por cerrada, ya que podrían tratar con más detalle la gestión de proyectos, las
-barreras o la gestión del cambio.

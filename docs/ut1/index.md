@@ -1,24 +1,21 @@
 # UT1 — Digitalización en la 4ª revolución industrial
 
-> Resumen de estudio elaborado a partir de los materiales de la carpeta «UT1 - Digitalización en la 4ª revolución industrial».
-> Estructurado según los Contenidos de la UT1 de la programación del módulo DJK (Digitalización aplicada a los sectores productivos, 1.º DAM).
-
 ## De qué va esta unidad
 
-Seguro que has oído hablar de "Industria 4.0", de fábricas inteligentes o de que "todo se está digitalizando". En esta unidad vamos a desmontar esas expresiones y a entender qué significan de verdad. La idea central es sencilla: las empresas llevan más de dos siglos cambiando su forma de producir, y cada cierto tiempo ocurre un salto tan grande que se le llama "revolución industrial". Hemos vivido ya tres (vapor, electricidad, electrónica) y ahora estamos metidos de lleno en la cuarta, la de los datos, la conectividad y la inteligencia artificial.
+Es habitual haber oído hablar de "Industria 4.0", de fábricas inteligentes o de que "todo se está digitalizando". Esta unidad analiza esas expresiones para entender qué significan realmente. La idea central es sencilla: las empresas llevan más de dos siglos cambiando su forma de producir, y cada cierto tiempo ocurre un salto tan grande que se le llama "revolución industrial". Se han vivido ya tres (vapor, electricidad, electrónica) y actualmente se está de lleno en la cuarta, la de los datos, la conectividad y la inteligencia artificial.
 
 Para entender la digitalización de una empresa industrial hay que mirarla desde dos ángulos que conviven en toda fábrica: el ángulo de la información (llamado **IT**, de *Information Technology*) y el ángulo de la operación física, de las máquinas y de la producción (llamado **OT**, de *Operation Technology*). Tradicionalmente estos dos mundos han ido cada uno por su lado: en la oficina se gestionaban pedidos y facturas con ordenadores, y en la planta las máquinas hacían su trabajo con controladores propios, sin apenas comunicarse entre sí. La gran promesa —y el gran reto— de la digitalización actual es conectar ambos mundos para que la información fluya de la planta a la dirección y viceversa, en tiempo real.
 
-Este es precisamente el resultado de aprendizaje (RA1) de esta unidad: analizar el concepto de digitalización y su repercusión en los sectores productivos, sabiendo identificar y diferenciar los entornos IT y OT de una empresa. A lo largo de las siguientes páginas veremos de dónde viene todo esto (las cuatro revoluciones industriales), qué es exactamente un "sistema ciberfísico", cómo se organiza una empresa por dentro, qué diferencia a IT de OT, cómo se conectan ambos mundos y, para terminar, qué gana realmente una empresa que se digitaliza de arriba abajo.
+Este es precisamente el resultado de aprendizaje (RA1) de esta unidad: analizar el concepto de digitalización y su repercusión en los sectores productivos, sabiendo identificar y diferenciar los entornos IT y OT de una empresa. A lo largo de las siguientes páginas se aborda de dónde viene todo esto (las cuatro revoluciones industriales), qué es exactamente un "sistema ciberfísico", cómo se organiza una empresa por dentro, qué diferencia a IT de OT, cómo se conectan ambos mundos y, para terminar, qué gana realmente una empresa que se digitaliza de arriba abajo.
 
 ![Arquitectura de la Industria 4.0: capas IT, puente MES/IIoT y capa OT, con los resultados de la digitalización extremo a extremo](img_resumen/ecosistema_digital_4_0.png)
-*Figura: visión de conjunto de una empresa digitalizada, con la capa IT (ERP, CRM, Business Intelligence, cloud) arriba, el puente de interconexión (MES, protocolos como OPC UA) en el centro, y la capa OT (sensores, cobots, SCADA) abajo. Iremos viendo cada pieza de este mapa a lo largo de la unidad. Origen: imagen suelta de la carpeta de la unidad.*
+*Figura: visión de conjunto de una empresa digitalizada, con la capa IT (ERP, CRM, Business Intelligence, cloud) arriba, el puente de interconexión (MES, protocolos como OPC UA) en el centro, y la capa OT (sensores, cobots, SCADA) abajo. Cada pieza de este mapa se desarrolla a lo largo de la unidad. Origen: imagen suelta de la carpeta de la unidad.*
 
-## Qué deberías saber hacer al terminar (resultados de aprendizaje)
+## Qué se espera saber hacer al terminar la unidad (resultados de aprendizaje)
 
-El resultado de aprendizaje de esta unidad (RA1) dice, en legalés, que hay que "analizar el concepto de digitalización y su repercusión en los sectores productivos teniendo en cuenta la actividad de la empresa e identificando entornos IT y OT característicos". Traducido a la práctica, al terminar esta unidad deberías ser capaz de:
+El resultado de aprendizaje de esta unidad (RA1) establece, en términos normativos, que hay que "analizar el concepto de digitalización y su repercusión en los sectores productivos teniendo en cuenta la actividad de la empresa e identificando entornos IT y OT característicos". Traducido a la práctica, al terminar esta unidad se debe ser capaz de:
 
-- Explicar con tus palabras qué es la digitalización y en qué se diferencia de simplemente "meter ordenadores" en una empresa.
+- Explicar con palabras propias qué es la digitalización y en qué se diferencia de simplemente "meter ordenadores" en una empresa.
 - Relacionar la llegada de la tecnología digital con cambios reales en cómo se organiza una empresa (procesos, atención al cliente, modelos de negocio, estructura interna).
 - Distinguir un entorno IT de un entorno OT, explicando en qué se parecen y en qué no.
 - Reconocer qué departamentos de una empresa suelen formar parte del entorno IT.
@@ -68,7 +65,7 @@ Un dato curioso de la época: gracias a la cadena de montaje, el tiempo de monta
 
 Una vez situados en el tiempo, toca definir bien el concepto estrella de la unidad: la **digitalización**. Digitalizar es el proceso de cambiar los estados de los elementos de analógicos a digitales: el papel, el archivado de documentos, los sistemas locales... todo pasa a estar en formato digital, accesible desde cualquier lugar y en cualquier momento (dependiendo de los permisos de cada usuario). La digitalización aplicada a la industria 4.0 va un paso más allá: es el proceso mediante el cual se utilizan tecnologías digitales avanzadas —inteligencia artificial, gemelos digitales, Internet de las Cosas— para mejorar la eficiencia y la productividad, convirtiendo la fábrica tradicional en una **fábrica inteligente** (*smart factory*).
 
-Una fábrica inteligente es una planta de producción que usa tecnologías de la Industria 4.0 (IA, análisis de datos en tiempo real) para automatizar procesos, mejorar la eficiencia y tomar decisiones más rápidas e informadas. Sus máquinas y equipos están conectados entre sí mediante una red central, intercambiando datos en tiempo real, lo que le permite reaccionar con rapidez a cambios en la demanda o en las condiciones de producción. Para verlo claro, imagina la fabricación de botellas de plástico en dos fábricas distintas:
+Una fábrica inteligente es una planta de producción que usa tecnologías de la Industria 4.0 (IA, análisis de datos en tiempo real) para automatizar procesos, mejorar la eficiencia y tomar decisiones más rápidas e informadas. Sus máquinas y equipos están conectados entre sí mediante una red central, intercambiando datos en tiempo real, lo que le permite reaccionar con rapidez a cambios en la demanda o en las condiciones de producción. Para ilustrarlo, puede considerarse la fabricación de botellas de plástico en dos fábricas distintas:
 
 - **Fábrica automatizada (Industria 3.0):** el pedido llega por teléfono o email, un encargado planifica el turno a mano, las máquinas repiten siempre el mismo ciclo, un inspector revisa botellas al azar y el mantenimiento se hace por calendario, sin sensores que anticipen fallos. Los datos no fluyen entre la planta y la oficina.
 - **Fábrica inteligente (Industria 4.0):** el pedido entra online y el ERP lo registra solo; un sistema MES organiza la producción y lanza compras automáticas si falta materia prima; sensores IoT controlan temperatura y presión mientras cobots manipulan las piezas; cámaras con visión artificial detectan defectos con IA; los propios sensores predicen averías antes de que ocurran (mantenimiento predictivo); y el cliente recibe notificaciones en tiempo real del estado de su pedido.
@@ -225,7 +222,7 @@ Estas ventajas no aparecen solo en la parte de negocio: también se dan cuando s
 
 En definitiva, la digitalización es un motor de cambio en todos los sectores productivos. Su correcta implantación requiere integrar IT y OT, aplicar tecnologías digitales adaptadas al negocio concreto y, sobre todo, fomentar una cultura organizativa orientada a los datos y a la innovación; no basta con comprar tecnología si la empresa no cambia también su forma de trabajar y de tomar decisiones.
 
-> **Ejemplo actual — Programas de "fábricas faro" (*Lighthouse Factories*).** El Foro Económico Mundial mantiene desde hace años una red de "fábricas faro" que reconoce a plantas industriales de todo el mundo —incluidas varias en España, del sector automoción y de electrodomésticos— como referentes en la aplicación de tecnologías 4.0 de extremo a extremo. Es un buen ejemplo de cómo las ventajas que hemos visto en esta sección se traducen en reconocimiento real para las empresas que las aplican.
+> **Ejemplo actual — Programas de "fábricas faro" (*Lighthouse Factories*).** El Foro Económico Mundial mantiene desde hace años una red de "fábricas faro" que reconoce a plantas industriales de todo el mundo —incluidas varias en España, del sector automoción y de electrodomésticos— como referentes en la aplicación de tecnologías 4.0 de extremo a extremo. Es un buen ejemplo de cómo las ventajas descritas en esta sección se traducen en reconocimiento real para las empresas que las aplican.
 
 > **En las noticias — Electrificación e industria 4.0 en la automoción española.** Varias plantas automovilísticas españolas han anunciado en los últimos años fuertes inversiones para adaptar sus líneas a la fabricación de vehículos eléctricos, combinando esa transición con una digitalización más profunda de sus procesos (robótica, gemelos digitales, trazabilidad de baterías). Según se ha informado en prensa económica, este tipo de proyectos se presentan habitualmente como palanca tanto de competitividad como de sostenibilidad para el sector.
 
@@ -257,7 +254,7 @@ En definitiva, la digitalización es un motor de cambio en todos los sectores pr
 | Convergencia IT/OT | Integración de los datos y sistemas de los entornos IT y OT de una empresa. |
 | Organigrama | Representación gráfica de la jerarquía de departamentos de una empresa. |
 
-## Repaso: 8-10 preguntas para autoevaluarte
+## Repaso: 8-10 preguntas de autoevaluación
 
 1. ¿Qué invento marcó el inicio de la Primera Revolución Industrial y en qué año? *(sección 1)*
 2. ¿Qué cambio de flexibilidad trajo la electricidad respecto a las fábricas de vapor? *(sección 1)*
@@ -286,16 +283,3 @@ En definitiva, la digitalización es un motor de cambio en todos los sectores pr
 
 </details>
 
-## De dónde sale esto (fuentes de la carpeta)
-
-- `UT 1 Digitalización en 4a revolucion.pdf` — apuntes propios del docente; fuente principal de la unidad, con las cuatro revoluciones industriales, sistemas ciberfísicos, IT/OT, departamentos, tecnologías típicas (ERP, MES, SCADA, trazabilidad) y ventajas de la digitalización extremo a extremo.
-- `UD1 Digitalización en los sectores productivos.pdf` — capítulo 1 del libro de texto de Paraninfo (María Gracia López Olivencia, 2024), **escaneado sin capa de texto**; se ha leído íntegramente renderizando sus páginas como imágenes. Aporta la cronología de revoluciones, la definición de sistemas ciberfísicos, la estructura de la empresa, la convergencia IT/OT y las ventajas de digitalizar, con un mapa conceptual final muy útil.
-- `Unidad 1 Digitalizacion de CAMPUS.pdf` — guía complementaria descargada, con buenas tablas e infografías sobre IT/OT, impacto de la digitalización en la empresa, departamentos IT y evolución histórica de la convergencia IT/OT.
-- `Ecosistema Digital 4.0.png` — infografía suelta de la carpeta con una visión de conjunto de la arquitectura IT/OT de una empresa digitalizada (capas IT, puente MES/IIoT y capa OT), usada como imagen introductoria.
-
-## Avisos
-
-- **Discrepancia entre fuentes:** el año de inicio de la Cuarta Revolución Industrial no coincide entre los apuntes propios (2016, por la publicación del libro de Klaus Schwab) y el libro de texto de Paraninfo (aproximadamente 2011). Se ha explicado la discrepancia en la sección 1 en lugar de elegir una sola fecha como si fuera un hecho cerrado.
-- **Material no textual, no evaluado:** el archivo `Del_vapor_al_código_invisible.m4a` es un podcast/audio de la carpeta que no se ha podido transcribir ni analizar con las herramientas de este resumen; no se ha usado como fuente y su contenido no está reflejado aquí.
-- **Departamentos IT:** los apuntes propios citan una lista más corta de departamentos típicos de IT (sistemas, desarrollo, soporte, seguridad, análisis de datos) que la guía CAMPUS (que añade desarrollo web/multimedia e innovación digital). No es una contradicción, sino dos niveles de detalle distintos; en el resumen se han presentado ambas listas de forma complementaria.
-- Las tecnologías habilitadoras digitales (THD) se mencionan aquí de forma introductoria porque forman parte de "los elementos que definen la Cuarta Revolución", pero su desarrollo detallado corresponde a la UT2, tal y como indican los propios apuntes.

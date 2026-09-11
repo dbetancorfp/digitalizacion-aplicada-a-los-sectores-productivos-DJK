@@ -1,18 +1,14 @@
 # UT5 — Datos y ciberseguridad
 
-> Resumen de estudio elaborado a partir de los materiales de la carpeta «UT5 - Datos y ciberseguridad».
-> Estructurado según los Contenidos de la UT5 de la programación del módulo DJK
-> (Digitalización aplicada a los sectores productivos, 1.º DAM).
-
 ## De qué va esta unidad
 
-Todos los días generas datos sin darte cuenta: cada búsqueda en el móvil, cada compra online, cada sensor de una máquina en una fábrica. Esta unidad sigue el viaje completo de esos datos en una empresa digital: qué son en realidad, por qué unos pocos números sueltos no valen nada hasta que se convierten en información útil, cómo se gestionan cuando su volumen se dispara (el fenómeno *Big Data*), qué herramientas existen para analizarlos y sacarles partido, y —muy importante— cómo se protegen, porque cuanto más valor tiene un dato, más interesa a quien quiere robarlo o dañarlo.
+Cada persona genera datos a diario sin ser consciente de ello: cada búsqueda en el móvil, cada compra online, cada sensor de una máquina en una fábrica. Esta unidad sigue el viaje completo de esos datos en una empresa digital: qué son en realidad, por qué unos pocos números sueltos no valen nada hasta que se convierten en información útil, cómo se gestionan cuando su volumen se dispara (el fenómeno *Big Data*), qué herramientas existen para analizarlos y sacarles partido, y —muy importante— cómo se protegen, porque cuanto más valor tiene un dato, más interesa a quien quiere robarlo o dañarlo.
 
-La segunda mitad de la unidad se centra en la ciberseguridad aplicada al día a día: contraseñas, autenticación en dos pasos, cifrado, copias de seguridad y hábitos seguros en el puesto de trabajo. Es el RA5 de la programación del módulo: *evaluar la importancia de los datos, así como su protección en una economía digital globalizada, definiendo sistemas de seguridad y ciberseguridad tanto a nivel de equipo/sistema como globales*. Como alumnado de DAM, además de entender estos conceptos como usuarios, te interesan especialmente porque cualquier aplicación que programes en el futuro va a manejar datos de personas reales y va a tener que guardarlos, transmitirlos y protegerlos correctamente.
+La segunda mitad de la unidad se centra en la ciberseguridad aplicada al día a día: contraseñas, autenticación en dos pasos, cifrado, copias de seguridad y hábitos seguros en el puesto de trabajo. Es el RA5 de la programación del módulo: *evaluar la importancia de los datos, así como su protección en una economía digital globalizada, definiendo sistemas de seguridad y ciberseguridad tanto a nivel de equipo/sistema como globales*. Para el alumnado de DAM, además de resultar relevantes desde la perspectiva de usuario, estos conceptos son especialmente importantes porque cualquier aplicación que se desarrolle en el futuro manejará datos de personas reales y deberá guardarlos, transmitirlos y protegerlos correctamente.
 
-## Qué deberías saber hacer al terminar (resultados de aprendizaje)
+## Qué se espera saber hacer al terminar (resultados de aprendizaje)
 
-Al acabar esta unidad sabrás:
+Al finalizar esta unidad, el alumnado debe ser capaz de:
 
 - Explicar la diferencia entre un **dato** y la **información** que se obtiene al procesarlo.
 - Describir las **etapas del ciclo de vida** de un dato, desde que se crea hasta que se elimina.
@@ -43,7 +39,7 @@ Para llegar de un dato a información con significado, el dato pasa por varios p
 
 Un **dato aislado** puede llevar a errores si se usa sin procesar: falta de claridad, sesgos, sobrecarga de información, dificultad para ver patrones o incluso conclusiones contradictorias. Por eso las empresas no "tienen datos", sino que invierten en convertirlos en información y conocimiento útil.
 
-> **Ejemplo actual — Spotify Wrapped.** Cada diciembre, Spotify convierte miles de datos sueltos (qué canción escuchaste, cuántas veces, a qué hora) en un resumen personalizado con tu artista y género favorito del año. Es un caso muy visual de cómo datos en bruto se transforman en información —y hasta en una pequeña "sabiduría" sobre tus propios gustos— que además la empresa usa para fidelizar usuarios.
+> **Ejemplo actual — Spotify Wrapped.** Cada diciembre, Spotify convierte miles de datos sueltos (qué canción se ha escuchado, cuántas veces, a qué hora) en un resumen personalizado con el artista y el género favorito de cada usuario en el año. Es un caso muy visual de cómo datos en bruto se transforman en información —y hasta en una pequeña "sabiduría" sobre los propios gustos— que además la empresa usa para fidelizar usuarios.
 
 ### Ideas clave de esta sección
 - Dato = hecho en bruto sin contexto; información = dato procesado con significado; conocimiento = información aplicada a decisiones.
@@ -219,7 +215,7 @@ El Big Data se aplica de forma distinta según el sector. Algunos ejemplos recog
 
 En general, estas aplicaciones siguen el mismo patrón: pasar de una gestión basada en la intuición a una basada en la evidencia, combinando análisis descriptivo (qué pasó), predictivo (qué pasará) y prescriptivo (qué hacer).
 
-> **Ejemplo actual — Netflix y el algoritmo de recomendación.** Netflix analiza miles de millones de interacciones (qué ves, cuándo paras un capítulo, qué valoras) para decidir qué miniaturas y series recomendarte: un caso muy conocido de Big Data aplicado al sector retail/entretenimiento que el alumnado reconoce fácilmente.
+> **Ejemplo actual — Netflix y el algoritmo de recomendación.** Netflix analiza miles de millones de interacciones (qué ves, cuándo paras un capítulo, qué valoras) para decidir qué miniaturas y series recomendar a cada usuario: un caso muy conocido de Big Data aplicado al sector retail/entretenimiento, fácilmente reconocible para el alumnado.
 
 ### Ideas clave de esta sección
 - El Big Data se aplica de forma transversal, pero con usos muy distintos según el sector (salud, finanzas, retail, transporte, energía, agricultura, seguridad…).
@@ -388,18 +384,18 @@ La **autenticación multifactor** exige dos o más pruebas de identidad de categ
 
 ## 13. Protección del puesto de trabajo
 
-La protección del puesto de trabajo —el ordenador, la sesión abierta, el USB que alguien te presta— es la capa de equipo de la defensa en profundidad (sección 8), cuyo objetivo es proteger el dispositivo físico y lo que hay en él.
+La protección del puesto de trabajo —el ordenador, la sesión abierta, el USB que alguien presta— es la capa de equipo de la defensa en profundidad (sección 8), cuyo objetivo es proteger el dispositivo físico y lo que hay en él.
 
 Medidas principales recogidas en los materiales:
 
-- **Bloqueo de sesión**: bloquear siempre al levantarte del puesto (`Win+L` en Windows) y activar el bloqueo automático por inactividad (5-10 minutos en oficina).
+- **Bloqueo de sesión**: bloquear siempre la sesión al levantarse del puesto (`Win+L` en Windows) y activar el bloqueo automático por inactividad (5-10 minutos en oficina).
 - **Escritorio y pantalla limpios (*clean desk*)**: no dejar documentos con datos personales ni contraseñas en pósits a la vista; usar filtros de privacidad en pantallas de cara al público.
 - **Control de dispositivos USB**: deshabilitar el autoarranque, permitir solo dispositivos autorizados y cifrar cualquier USB corporativo, ya que son una vía habitual de entrada de *malware* (ver sección 11) o de fuga de información.
 - **Navegación y descargas seguras**: comprobar que la web usa HTTPS y que el dominio es correcto antes de introducir credenciales; descargar solo de fuentes oficiales.
 - **Correo electrónico seguro**: no abrir adjuntos inesperados ni habilitar macros en documentos de Office sin verificar el origen; no pulsar enlaces sospechosos.
 - **Cifrado de disco completo** (BitLocker, FileVault, LUKS…): protege los datos "en reposo" frente al robo o pérdida física del equipo.
 - **Actualizaciones y parcheo**: mantener al día el sistema operativo y las aplicaciones, porque la mayoría de ataques explotan vulnerabilidades ya corregidas.
-- **Antivirus/EDR, cortafuegos del equipo y mínimo privilegio**: trabajar con una cuenta de usuario estándar, no de administrador, para limitar el daño si un malware se ejecuta con tu sesión.
+- **Antivirus/EDR, cortafuegos del equipo y mínimo privilegio**: trabajar con una cuenta de usuario estándar, no de administrador, para limitar el daño si un malware se ejecuta en la sesión del usuario.
 - **Copias de seguridad y regla 3-2-1**: 3 copias de los datos, en 2 soportes distintos, con 1 copia fuera de las instalaciones; probar la restauración periódicamente.
 - **VPN en redes no confiables**: en wifis públicas (hotel, aeropuerto, cafetería), una VPN cifra todo el tráfico del equipo frente a quien intercepte esa red.
 
@@ -432,7 +428,7 @@ Medidas principales recogidas en los materiales:
 | MFA (autenticación multifactor) | Exigir dos o más pruebas de identidad distintas para acceder a una cuenta. |
 | RGPD | Reglamento General de Protección de Datos, normativa europea sobre datos personales. |
 
-## Repaso: preguntas para autoevaluarte
+## Repaso: preguntas de autoevaluación
 
 1. ¿Qué diferencia hay entre un dato y la información, y qué nivel adicional añaden algunas fuentes por encima del conocimiento?
 2. ¿Cuáles son las 6 etapas del ciclo de vida del dato que se usan como modelo de referencia en esta unidad?
@@ -463,11 +459,3 @@ Medidas principales recogidas en los materiales:
 
 </details>
 
-## De dónde sale esto (fuentes de la carpeta)
-
-- `UT 5 Gestión y protección de datos.pdf` — apuntes propios del docente (§5.1-5.7): dato/información/conocimiento, ciclo de vida del dato (modelo de 6 etapas), Big Data (5V), tipos de almacenamiento, ciencia de datos (CRISP-DM), tipos de análisis, relación Big Data-ML-DL-IA y defensa en profundidad con cifrado. Fuente principal de las secciones 1, 2, 3, 4, 5, 8.
-- `Análisis de datos UT5.pdf` — material complementario: modelo DIKW (con sabiduría), ciclo de vida alternativo de 7 etapas, retos y 5V del Big Data, aplicaciones sectoriales del Big Data, relación Big Data/Deep Learning/IA y ciencia de datos con flujo de 5 pasos. Fuente principal de la sección 6 y de los matices de las secciones 1, 2, 3 y 5.
-- `UD5.pdf` (Paraninfo, "Unidad 5: Evaluación de datos") — libro de texto escaneado sin capa de texto (renderizado y leído página a página): tipos de datos (estructurados/no estructurados, público/privado/restringido), gestión del ciclo de vida, 5V y tipos de análisis, ecosistema Big Data + cloud, características del cloud computing, etapas de la ingeniería de datos y herramientas de análisis (Excel, Google Sheets, SQL, Tableau, Looker Studio). Fuente de las figuras 5.5 y 5.6 y de gran parte de las secciones 4, 5 y 7.
-- `Contenidos segun BOE.odt` — documento de contenidos oficiales de la UT5, con un desarrollo punto por punto muy alineado con la lista de Contenidos de la programación; reconoce explícitamente que las fuentes de partida no tratan a fondo "contraseñas" ni "protección del puesto de trabajo" (huecos que cubre la ampliación siguiente), y que tampoco dedican un apartado propio a "principales amenazas". Fuente de apoyo transversal en casi todas las secciones, y especialmente de las secciones 9 y 10.
-- `UT5 - Contrasenas y proteccion del puesto (ampliacion).md` — apuntes de ampliación redactados por el docente para cubrir a fondo los puntos 12 (contraseñas) y 13 (protección del puesto de trabajo), apoyándose en la capa de usuario/equipo de los apuntes propios y en conocimiento estándar de ciberseguridad (NIST SP 800-63B, INCIBE, OWASP, FIDO2). También es la fuente principal del listado de ataques concretos (fuerza bruta, diccionario, credential stuffing, phishing, keylogging, malware por USB…) usado en la sección 11. Fuente principal de las secciones 11, 12 y 13.
-- `Ciclo_de_Vida_del_Big_Data.mp4` y `De_datos_brutos_a_decisiones_estratégicas.m4a` / `Seguridad_técnica_frente_a_gestión_del_almacenamiento.m4a` — material audiovisual (vídeo y podcasts). No son analizables como texto con las herramientas de este resumen; no se ha inventado su contenido. El propio documento de ampliación señala que el segundo audio podría cubrir total o parcialmente los puntos 12-13, pero queda pendiente de escucha y contraste por el docente.

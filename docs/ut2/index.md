@@ -1,22 +1,18 @@
 # UT2 — Tecnologías habilitadoras digitales
 
-> Resumen de estudio elaborado a partir de los materiales de la carpeta «UT2 - Tecnologías habilitadoras digitales».
-> Estructurado según los Contenidos de la UT2 de la programación del módulo DJK
-> (Digitalización aplicada a los sectores productivos, 1.º DAM).
-
 ## De qué va esta unidad
 
-En la UT1 viste que la cuarta revolución industrial se apoya en la digitalización y en la conexión entre los entornos IT (Tecnologías de la Información) y OT (Tecnologías de la Operación). Pero, ¿con qué herramientas concretas se hace esa digitalización? Esa es la pregunta que responde esta unidad.
+En la UT1 se estudió que la cuarta revolución industrial se apoya en la digitalización y en la conexión entre los entornos IT (Tecnologías de la Información) y OT (Tecnologías de la Operación). ¿Con qué herramientas concretas se hace esa digitalización? Esa es la pregunta que responde esta unidad.
 
 Las **Tecnologías Habilitadoras Digitales (THD)**, o *Digital Enabling Technologies*, son el conjunto de tecnologías que hacen posible (que "habilitan") la transformación digital de una empresa: el internet de las cosas, la inteligencia artificial, el big data, la nube, la ciberseguridad, la realidad aumentada y virtual, el blockchain, las redes 5G, la robótica, la impresión 3D, la biometría o los gemelos digitales. Ninguna de ellas funciona sola ni es un fin en sí misma: son piezas de un mismo ecosistema que una empresa combina según sus necesidades.
 
-Piensa en un supermercado que usa sensores para saber cuándo se agota un producto en la estantería (IoT), analiza esos datos para prever la demanda (Big Data e IA), gestiona todo desde servidores en internet en lugar de tener su propio centro de datos (cloud) y protege esa información de ataques (ciberseguridad). Esas cuatro tecnologías trabajando juntas son un ejemplo sencillo de THD aplicadas al día a día.
+Un ejemplo cotidiano es el de un supermercado que usa sensores para saber cuándo se agota un producto en la estantería (IoT), analiza esos datos para prever la demanda (Big Data e IA), gestiona todo desde servidores en internet en lugar de tener su propio centro de datos (cloud) y protege esa información de ataques (ciberseguridad). Esas cuatro tecnologías trabajando juntas son un ejemplo sencillo de THD aplicadas al día a día.
 
-A lo largo de esta unidad conocerás qué THD existen, cómo se usan para crear productos y servicios nuevos, qué relación tienen con la sostenibilidad, qué mercados nuevos han creado y cuáles son las tecnologías emergentes que están empezando a asomar.
+A lo largo de esta unidad se presentan las THD existentes, cómo se usan para crear productos y servicios nuevos, qué relación tienen con la sostenibilidad, qué mercados nuevos han creado y cuáles son las tecnologías emergentes que están empezando a asomar.
 
-## Qué deberías saber hacer al terminar (resultados de aprendizaje)
+## Qué se espera saber hacer al terminar (resultados de aprendizaje)
 
-El resultado de aprendizaje de esta unidad (RA2) dice que debes **caracterizar las THD necesarias para la transformación digital de las empresas, describiendo sus características y aplicaciones**. En la práctica, al terminar la unidad deberías ser capaz de:
+El resultado de aprendizaje de esta unidad (RA2) establece **caracterizar las THD necesarias para la transformación digital de las empresas, describiendo sus características y aplicaciones**. En la práctica, al terminar la unidad se espera ser capaz de:
 
 - Identificar y nombrar las principales tecnologías habilitadoras digitales.
 - Relacionar cada THD con el desarrollo de productos y servicios concretos.
@@ -96,7 +92,7 @@ Aunque cada THD es distinta, los materiales de la unidad coinciden en señalar u
 
 ## 2. Las THD en el desarrollo de productos y servicios
 
-Las THD no se quedan en la teoría: dan lugar a productos y entornos reconocibles que ya forman parte de nuestro día a día. La idea central de este bloque es que hemos pasado de la "automatización rígida" (un sistema que sigue siempre el mismo programa) a la "inteligencia digital" (un sistema capaz de aprender, razonar y decidir según su entorno).
+Las THD no se quedan en la teoría: dan lugar a productos y entornos reconocibles que ya forman parte del día a día. La idea central de este bloque es que se ha pasado de la "automatización rígida" (un sistema que sigue siempre el mismo programa) a la "inteligencia digital" (un sistema capaz de aprender, razonar y decidir según su entorno).
 
 ### Edificios y hogares inteligentes
 
@@ -109,7 +105,7 @@ A escala doméstica, el mismo concepto se traduce en el **hogar inteligente** (v
 
 ### Fábricas inteligentes
 
-Conviene no confundir una fábrica automatizada de toda la vida con una **fábrica inteligente** (*smart factory*). La fábrica inteligente es un ecosistema interconectado y en tiempo real que combina varias THD a la vez: IoT para monitorizar máquinas, Big Data para detectar patrones, IA para el mantenimiento predictivo, robots colaborativos (*cobots*) para tareas repetitivas o peligrosas, impresión 3D para prototipos y piezas de repuesto, ciberseguridad para proteger todo el sistema, cloud computing para almacenar y compartir datos, y AR/VR para formar a los operarios o simular procesos. Es, en definitiva, el núcleo de lo que en la UT1 llamaste industria 4.0.
+Conviene no confundir una fábrica automatizada de toda la vida con una **fábrica inteligente** (*smart factory*). La fábrica inteligente es un ecosistema interconectado y en tiempo real que combina varias THD a la vez: IoT para monitorizar máquinas, Big Data para detectar patrones, IA para el mantenimiento predictivo, robots colaborativos (*cobots*) para tareas repetitivas o peligrosas, impresión 3D para prototipos y piezas de repuesto, ciberseguridad para proteger todo el sistema, cloud computing para almacenar y compartir datos, y AR/VR para formar a los operarios o simular procesos. Es, en definitiva, el núcleo de lo que en la UT1 se denomina industria 4.0.
 
 ![Interior de una nave de fabricación aditiva industrial con varias impresoras 3D en producción](img_resumen/impresion_3d_fabrica.png)
 *Figura: planta de fabricación aditiva (impresión 3D) a escala industrial. Origen: UT 2 THD.pdf.*
@@ -297,13 +293,13 @@ Otra tecnología emergente muy relacionada con blockchain es la **DLT** (*Distri
 | Smart factory / smart city | Fábrica o ciudad que integra varias THD a la vez (IoT, IA, Big Data...) para operar de forma interconectada y en tiempo real. |
 | Sostenibilidad | Satisfacer las necesidades del presente sin comprometer las de las generaciones futuras, en sus tres dimensiones: ambiental, social y de gobernanza. |
 
-## Repaso: preguntas para autoevaluarte
+## Repaso: preguntas de autoevaluación
 
 1. ¿Qué significa cada una de las tres palabras que forman "Tecnologías Habilitadoras Digitales"?
 2. Cita al menos seis THD distintas y explica en una frase qué hace cada una.
 3. ¿Qué diferencia hay entre realidad aumentada y realidad virtual?
 4. ¿Qué diferencia hay entre una fábrica automatizada tradicional y una fábrica inteligente (*smart factory*)?
-5. Explica con tus palabras qué es un gemelo digital y qué tres elementos lo componen.
+5. Explica qué es un gemelo digital y qué tres elementos lo componen.
 6. Nombra las tres dimensiones de la sostenibilidad y pon un ejemplo de THD relacionado con cada una.
 7. Cita dos efectos positivos y dos efectos negativos de las THD sobre el medio ambiente.
 8. Pon dos ejemplos de nuevos mercados o modelos de negocio que hayan surgido gracias a las THD.
@@ -326,14 +322,3 @@ Otra tecnología emergente muy relacionada con blockchain es la **DLT** (*Distri
 
 </details>
 
-## De dónde sale esto (fuentes de la carpeta)
-
-- `UT 2 THD.pdf` — fuente principal y más completa: define 10 THD con su aplicación, su relación con la sostenibilidad, los nuevos mercados que generan, su implicación en negocio y planta, y tres tecnologías emergentes.
-- `Tecnologías Habilitadoras Digitales.pdf` — catálogo de THD, sus nueve características, su aplicación por sectores profesionales y su impacto ambiental y empresarial.
-- `Transformación digital gracias a las THD.pdf` — desarrolla los entornos inteligentes (edificios, hogares, fábricas y ciudades) en los que se aplican las THD. *Aviso: el propio documento se titula internamente "Unidad 3", aunque está guardado en la carpeta de la UT2; el contenido encaja con los Contenidos de esta unidad, así que se ha tratado como material de la UT2.*
-- `Guía Integral_ Digitalización Aplicada a los Sectores Productivos - Documentos de Google.pdf` — repasa los mismos cinco bloques de contenidos (fundamentos, productos/servicios, sostenibilidad, mercados, emergentes) con un enfoque más analítico, y aporta el cuadro comparativo de impactos ambientales y el perfil competencial del alumnado de FP.
-- `UD2.pdf` — libro de texto de la editorial (escaneado, sin capa de texto; se ha revisado imagen a imagen). Aporta el caso práctico de digitalización de un hotel (reserva y *check-in/check-out* sin recepción física), las tablas de nuevos mercados y de implicación de las THD en negocio y planta, el mapa conceptual final de la unidad y las imágenes de robótica colaborativa, gemelos digitales y computación en la nube usadas en este resumen. *Aviso: usa la sigla "TDH" en vez de "THD"; es una variante del mismo término, no una tecnología distinta.*
-
-**Avisos generales:**
-- No se ha detectado ningún archivo `.m4a` ni `.mp4` en la carpeta de la unidad.
-- La estructura de 5 puntos de este resumen sigue los Contenidos oficiales de `GESTOR-IA/RA-criterios.md`; el libro de texto (`UT 2 THD.pdf` y `UD2.pdf`) organiza internamente el mismo temario en un índice más detallado (2.1 a 2.18), que se ha repartido entre los 5 puntos oficiales.
