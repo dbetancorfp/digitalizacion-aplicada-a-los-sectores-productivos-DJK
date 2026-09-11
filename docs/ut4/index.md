@@ -1,8 +1,5 @@
 # UT4 — Inteligencia Artificial
 
-![Portada de la unidad: silueta robótica y humana tocándose los dedos, con el esquema de contenidos](img_resumen/portada_ut4_apuntes.png)
-*Figura: portada de los apuntes de la unidad. Resume visualmente la idea central: la IA como "punto de contacto" entre la máquina y el ser humano. Origen: `UT 4 Inteligencia artificial.pdf` (portada).*
-
 ## De qué va esta unidad
 
 Todos los días interactuamos con inteligencia artificial (IA) sin apenas darnos cuenta:
