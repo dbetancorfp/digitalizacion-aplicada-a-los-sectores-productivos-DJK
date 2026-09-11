@@ -241,9 +241,6 @@ Las herramientas para analizar datos se agrupan en tres bloques:
 
 En una economía digital globalizada, los datos son uno de los activos más valiosos de las organizaciones, por lo que su protección no puede depender de una única medida. Como ningún sistema es completamente infalible, se utiliza el modelo de **defensa en profundidad**: la idea de que la seguridad no es un producto, sino un sistema de **capas interrelacionadas**. Cada capa actúa como una barrera adicional, dificultando el acceso no autorizado y mejorando la detección y respuesta ante incidentes. No se trata de evitar todos los ataques, sino de resistirlos, detectarlos y responder eficazmente.
 
-![Foto de un candado con llaves sobre un teclado de ordenador](img_resumen/seguridad_datos_candado.png)
-*Figura: la protección de los datos combina medidas técnicas y organizativas, como las capas de la defensa en profundidad. Origen: "UT 5 Gestión y protección de datos.pdf".*
-
 Las capas de la defensa en profundidad, de lo más humano a lo más estructural, son:
 
 - **Capa de usuario**: contraseñas seguras, autenticación multifactor (MFA), prevención del *phishing* y buenas prácticas. Es la capa más vulnerable, por lo que la formación es clave (se desarrolla en la sección 12).
