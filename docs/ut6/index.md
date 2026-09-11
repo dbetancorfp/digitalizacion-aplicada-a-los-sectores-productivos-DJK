@@ -860,12 +860,6 @@ recursos humanos). Esta unidad completa ese esquema con la gestión formal del p
 barreras, la matriz RACI y la gestión del cambio (contenidos 4 a 7), desarrollados en la
 ampliación de la unidad.
 
-![Mapa conceptual del libro con los epígrafes 6.1 a 6.8 de la unidad](img_resumen/mapa_conceptual_ut6.png)
-*Figura: mapa conceptual de cierre de la unidad en el libro de texto, con las ramas
-transformación digital y objetivos estratégicos, proceso de transformación, implantación de
-tecnología, software ERP/CRM/BPM, soluciones en la nube, tratamiento de datos masivo, documentos
-de seguimiento y recursos humanos. Origen: `UD6.pdf`, pág. 147.*
-
 ---
 
 ## Glosario rápido
