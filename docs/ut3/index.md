@@ -13,15 +13,14 @@ Pero la nube no vive sola. Cuando los datos deben procesarse en milisegundos (un
 autónomo frenando, un robot industrial evitando una colisión), enviarlos a un centro de
 datos lejano y esperar respuesta ya no vale. Por eso han surgido modelos "más cerca de
 casa": **edge, fog y mist computing**, que acercan el procesamiento al lugar donde nacen
-los datos. Esta unidad conecta directamente con el **RA3** de la programación: identificar
-los sistemas basados en cloud/nube y su influencia en el desarrollo de los sistemas
-digitales. También se analiza el lado económico (¿de verdad compensa pagar por uso en vez
+los datos. Esta unidad se centra en identificar los sistemas basados en cloud/nube y su
+influencia en el desarrollo de los sistemas digitales. También se analiza el lado económico (¿de verdad compensa pagar por uso en vez
 de comprar servidores?), el lado ambiental (la nube también puede ser sostenible, o no) y
 el lado más delicado: qué puede salir mal en la nube y cómo evitarlo.
 
-## Qué se espera saber hacer al terminar (resultados de aprendizaje)
+## Qué se espera saber hacer al terminar
 
-Al finalizar esta unidad, conforme al **RA3** de la programación, se debe ser capaz de:
+Al finalizar esta unidad se debe ser capaz de:
 
 - **Identificar los diferentes niveles de la nube** (IaaS, PaaS, SaaS) y distinguir qué
   gestiona el proveedor y qué gestiona el usuario en cada uno.

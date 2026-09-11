@@ -4,9 +4,9 @@
 
 Cada persona genera datos a diario sin ser consciente de ello: cada búsqueda en el móvil, cada compra online, cada sensor de una máquina en una fábrica. Esta unidad sigue el viaje completo de esos datos en una empresa digital: qué son en realidad, por qué unos pocos números sueltos no valen nada hasta que se convierten en información útil, cómo se gestionan cuando su volumen se dispara (el fenómeno *Big Data*), qué herramientas existen para analizarlos y sacarles partido, y —muy importante— cómo se protegen, porque cuanto más valor tiene un dato, más interesa a quien quiere robarlo o dañarlo.
 
-La segunda mitad de la unidad se centra en la ciberseguridad aplicada al día a día: contraseñas, autenticación en dos pasos, cifrado, copias de seguridad y hábitos seguros en el puesto de trabajo. Es el RA5 de la programación del módulo: *evaluar la importancia de los datos, así como su protección en una economía digital globalizada, definiendo sistemas de seguridad y ciberseguridad tanto a nivel de equipo/sistema como globales*. Para el alumnado de DAM, además de resultar relevantes desde la perspectiva de usuario, estos conceptos son especialmente importantes porque cualquier aplicación que se desarrolle en el futuro manejará datos de personas reales y deberá guardarlos, transmitirlos y protegerlos correctamente.
+La segunda mitad de la unidad se centra en la ciberseguridad aplicada al día a día: contraseñas, autenticación en dos pasos, cifrado, copias de seguridad y hábitos seguros en el puesto de trabajo, con el objetivo de *evaluar la importancia de los datos, así como su protección en una economía digital globalizada, definiendo sistemas de seguridad y ciberseguridad tanto a nivel de equipo/sistema como globales*. Para el alumnado de DAM, además de resultar relevantes desde la perspectiva de usuario, estos conceptos son especialmente importantes porque cualquier aplicación que se desarrolle en el futuro manejará datos de personas reales y deberá guardarlos, transmitirlos y protegerlos correctamente.
 
-## Qué se espera saber hacer al terminar (resultados de aprendizaje)
+## Qué se espera saber hacer al terminar
 
 Al finalizar esta unidad, el alumnado debe ser capaz de:
 

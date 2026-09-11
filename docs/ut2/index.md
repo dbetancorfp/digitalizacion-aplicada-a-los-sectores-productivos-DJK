@@ -10,9 +10,9 @@ Un ejemplo cotidiano es el de un supermercado que usa sensores para saber cuánd
 
 A lo largo de esta unidad se presentan las THD existentes, cómo se usan para crear productos y servicios nuevos, qué relación tienen con la sostenibilidad, qué mercados nuevos han creado y cuáles son las tecnologías emergentes que están empezando a asomar.
 
-## Qué se espera saber hacer al terminar (resultados de aprendizaje)
+## Qué se espera saber hacer al terminar
 
-El resultado de aprendizaje de esta unidad (RA2) establece **caracterizar las THD necesarias para la transformación digital de las empresas, describiendo sus características y aplicaciones**. En la práctica, al terminar la unidad se espera ser capaz de:
+El objetivo de esta unidad es **caracterizar las THD necesarias para la transformación digital de las empresas, describiendo sus características y aplicaciones**. En la práctica, al terminar la unidad se espera ser capaz de:
 
 - Identificar y nombrar las principales tecnologías habilitadoras digitales.
 - Relacionar cada THD con el desarrollo de productos y servicios concretos.

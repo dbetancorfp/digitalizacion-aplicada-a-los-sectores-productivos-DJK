@@ -5,7 +5,7 @@
 Todos los días interactuamos con inteligencia artificial (IA) sin apenas darnos cuenta:
 cuando el móvil sugiere la siguiente palabra al escribir, cuando Netflix recomienda una
 serie, cuando el banco bloquea una compra "rara" con la tarjeta o cuando le pedimos a
-ChatGPT o a Copilot que nos ayude a programar. Esta unidad, ligada al **RA4**, explica qué
+ChatGPT o a Copilot que ayude a programar. Esta unidad explica qué
 hay detrás de esa palabra tan usada —y tan mal usada— que es "inteligencia artificial":
 qué es realmente, de qué tipos existe, cómo "aprende" una máquina, por qué necesita datos
 para funcionar, en qué sectores productivos se está implantando con más fuerza, cómo se
@@ -20,9 +20,9 @@ aplicaciones multiplataforma, no se trata de "inventar" IA desde cero, sino de
 entrenados, asistentes de código); de ahí que entender sus tipos, sus límites y sus
 riesgos éticos y legales (protección de datos) forme parte de ese perfil profesional.
 
-## Qué se espera saber hacer al terminar la unidad (resultados de aprendizaje)
+## Qué se espera saber hacer al terminar la unidad
 
-Esta unidad desarrolla el **RA4**: *identificar aplicaciones de la IA en entornos del
+El objetivo de esta unidad es *identificar aplicaciones de la IA en entornos del
 sector donde está enmarcado el título, describiendo las mejoras implícitas en su
 implementación*. En resumen, al terminar la unidad se debe ser capaz de:
 

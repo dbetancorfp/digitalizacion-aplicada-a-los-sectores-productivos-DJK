@@ -6,14 +6,14 @@ Es habitual haber oído hablar de "Industria 4.0", de fábricas inteligentes o d
 
 Para entender la digitalización de una empresa industrial hay que mirarla desde dos ángulos que conviven en toda fábrica: el ángulo de la información (llamado **IT**, de *Information Technology*) y el ángulo de la operación física, de las máquinas y de la producción (llamado **OT**, de *Operation Technology*). Tradicionalmente estos dos mundos han ido cada uno por su lado: en la oficina se gestionaban pedidos y facturas con ordenadores, y en la planta las máquinas hacían su trabajo con controladores propios, sin apenas comunicarse entre sí. La gran promesa —y el gran reto— de la digitalización actual es conectar ambos mundos para que la información fluya de la planta a la dirección y viceversa, en tiempo real.
 
-Este es precisamente el resultado de aprendizaje (RA1) de esta unidad: analizar el concepto de digitalización y su repercusión en los sectores productivos, sabiendo identificar y diferenciar los entornos IT y OT de una empresa. A lo largo de las siguientes páginas se aborda de dónde viene todo esto (las cuatro revoluciones industriales), qué es exactamente un "sistema ciberfísico", cómo se organiza una empresa por dentro, qué diferencia a IT de OT, cómo se conectan ambos mundos y, para terminar, qué gana realmente una empresa que se digitaliza de arriba abajo.
+El objetivo de esta unidad es analizar el concepto de digitalización y su repercusión en los sectores productivos, sabiendo identificar y diferenciar los entornos IT y OT de una empresa. A lo largo de las siguientes páginas se aborda de dónde viene todo esto (las cuatro revoluciones industriales), qué es exactamente un "sistema ciberfísico", cómo se organiza una empresa por dentro, qué diferencia a IT de OT, cómo se conectan ambos mundos y, para terminar, qué gana realmente una empresa que se digitaliza de arriba abajo.
 
 ![Arquitectura de la Industria 4.0: capas IT, puente MES/IIoT y capa OT, con los resultados de la digitalización extremo a extremo](img_resumen/ecosistema_digital_4_0.png)
 *Figura: visión de conjunto de una empresa digitalizada, con la capa IT (ERP, CRM, Business Intelligence, cloud) arriba, el puente de interconexión (MES, protocolos como OPC UA) en el centro, y la capa OT (sensores, cobots, SCADA) abajo. Cada pieza de este mapa se desarrolla a lo largo de la unidad. Origen: imagen suelta de la carpeta de la unidad.*
 
-## Qué se espera saber hacer al terminar la unidad (resultados de aprendizaje)
+## Qué se espera saber hacer al terminar la unidad
 
-El resultado de aprendizaje de esta unidad (RA1) establece, en términos normativos, que hay que "analizar el concepto de digitalización y su repercusión en los sectores productivos teniendo en cuenta la actividad de la empresa e identificando entornos IT y OT característicos". Traducido a la práctica, al terminar esta unidad se debe ser capaz de:
+En términos normativos, el objetivo de esta unidad es "analizar el concepto de digitalización y su repercusión en los sectores productivos teniendo en cuenta la actividad de la empresa e identificando entornos IT y OT característicos". Traducido a la práctica, al terminar esta unidad se debe ser capaz de:
 
 - Explicar con palabras propias qué es la digitalización y en qué se diferencia de simplemente "meter ordenadores" en una empresa.
 - Relacionar la llegada de la tecnología digital con cambios reales en cómo se organiza una empresa (procesos, atención al cliente, modelos de negocio, estructura interna).

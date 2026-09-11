@@ -17,11 +17,11 @@ que estrena una tienda online. Saber estructurar ese proyecto (qué se hace, por
 valor para el negocio, qué puede salir mal y quién responde de cada cosa) marca la diferencia
 entre una transformación digital que funciona y otra que se queda a medias.
 
-Esta unidad desarrolla el **resultado de aprendizaje RA6**: *«Desarrolla un proyecto de
+El objetivo de esta unidad es *«desarrollar un proyecto de
 transformación digital de una empresa de un sector relacionado con el título, teniendo en cuenta
 los cambios que se deben producir en función de los objetivos de la empresa»*.
 
-## Qué se espera saber hacer al terminar la unidad (resultados de aprendizaje)
+## Qué se espera saber hacer al terminar la unidad
 
 Al terminar la unidad se espera ser capaz de:
 
