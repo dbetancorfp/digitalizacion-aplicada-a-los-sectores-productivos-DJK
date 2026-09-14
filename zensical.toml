@@ -1,7 +1,7 @@
 [project]
 site_url = "https://dbetancorfp.github.io/digitalizacion-aplicada-a-los-sectores-productivos-DJK/"
 site_name = "DJK — Digitalización aplicada a los sectores productivos"
-site_description = "Apuntes de 1.º DAM del módulo DJK (RD 659/2023, Anexo VII): UT1-UT6."
+site_description = "Apuntes del módulo DJK (RD 659/2023, Anexo VII): UT1-UT6."
 site_author = "David Betancor"
 
 copyright = "Copyright &copy; 2026 David Betancor"

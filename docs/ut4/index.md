@@ -651,7 +651,7 @@ mejorar la calidad del audio.
 
 Este contenido no tenía un apartado propio en los apuntes originales de la unidad —se
 trataba de forma indirecta al hablar de la relación entre IA y análisis de datos— así que
-se ha completado con una nota de ampliación específica del docente, apoyada en el libro de
+se ha completado con una nota de ampliación específica, apoyada en el libro de
 texto de referencia y en los apuntes de la UT5.
 
 ### 6.1 ¿Qué es la minería de datos?
