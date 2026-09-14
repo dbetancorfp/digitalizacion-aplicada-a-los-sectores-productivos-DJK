@@ -58,7 +58,7 @@ Cruzando los distintos materiales de la unidad, las tecnologías habilitadoras d
 | **Biometría** | Identificación de personas mediante rasgos físicos o de comportamiento (huella, reconocimiento facial, voz). |
 | **Gemelo digital (Digital Twin)** | Réplica virtual de un sistema físico —una máquina, una línea de producción o una planta entera— que se actualiza con datos reales para simular, predecir y optimizar antes de aplicar los cambios al mundo real. |
 
-![Las nueve tecnologías clásicas asociadas a la industria 4.0, en forma de rueda](img_resumen/rueda_industria_40.png)
+![Las nueve tecnologías clásicas asociadas a la industria 4.0, en forma de rueda](img_resumen/rueda_industria_40.jpeg)
 *Figura: la nube, ciberseguridad, robots autónomos, integración de sistemas, realidad aumentada/virtual, simulación, fabricación aditiva, IoT y big data y analítica, representadas como las tecnologías nucleares de la Industria 4.0. Origen: Tecnologías Habilitadoras Digitales.pdf.*
 
 El Internet de las Cosas merece una mención aparte porque es la "puerta de entrada" de datos para casi todas las demás THD: sin sensores conectados no habría datos que analizar con Big Data ni con IA.
