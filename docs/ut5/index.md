@@ -185,7 +185,7 @@ El **cloud computing** (computación en la nube) se define como un modelo que pe
 - **Rápida elasticidad**: los recursos aumentan o disminuyen según la demanda (por ejemplo, al inicio y al final de la época de rebajas).
 - **Servicio medido/a medida**: solo se paga por lo que realmente se usa.
 
-![Ecosistema de Big Data y cloud computing: búsqueda en la nube, seguridad, conexión, almacenamiento, red local, servidor local, compartir datos, acceso remoto](img_resumen/ecosistema_bigdata_cloud.png)
+![Ecosistema de Big Data y cloud computing: búsqueda en la nube, seguridad, conexión, almacenamiento, red local, servidor local, compartir datos, acceso remoto](img_resumen/ecosistema_bigdata_cloud.jpeg)
 *Figura: ecosistema formado por Big Data y la cloud computing. Origen: "UD5.pdf" (Paraninfo), figura 5.5.*
 
 Las ventajas del cloud computing para la empresa son: **escalabilidad** (ajustar recursos según necesidad), **disponibilidad** (acceso desde cualquier lugar), **coste** (pago por uso, sin grandes infraestructuras propias), **seguridad** (proveedores con altos niveles de protección) y **flexibilidad** (facilita desarrollar y desplegar aplicaciones).

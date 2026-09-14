@@ -296,7 +296,7 @@ de calidad del aire, alumbrado inteligente, gestión de residuos, aparcamiento i
 puntos de carga de vehículos eléctricos generan datos constantemente, y sin fog ni mist
 sería inviable procesar todo ese volumen enviándolo entero a la nube.
 
-![Infografía de una smart city con iconos de sus servicios: energía, movilidad, seguridad, edificios inteligentes](img_resumen/smart_city_fog_ejemplos.png)
+![Infografía de una smart city con iconos de sus servicios: energía, movilidad, seguridad, edificios inteligentes](img_resumen/smart_city_fog_ejemplos.jpeg)
 *Figura: una smart city combina decenas de sistemas conectados —alumbrado, residuos,
 aparcamiento, calidad del agua, seguridad pública— que dependen de arquitecturas
 edge/fog/mist para funcionar en tiempo real sin saturar la red. Origen: apuntes propios

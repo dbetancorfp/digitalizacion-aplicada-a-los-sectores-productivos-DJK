@@ -290,7 +290,7 @@ Las principales aplicaciones ERP de uso mundial recogidas en el material son:
   que permiten análisis en tiempo real e integración con IA para predecir el comportamiento de
   los clientes.
 
-![Módulos principales de un ERP: ventas, producción, compras, distribución, administración, marketing, inventario y personal](img_resumen/modulos_erp.png)
+![Módulos principales de un ERP: ventas, producción, compras, distribución, administración, marketing, inventario y personal](img_resumen/modulos_erp.jpeg)
 *Figura 6.6 del libro de la unidad: módulos principales de un ERP (fuente: www.acontrol.com.mx),
 mostrando cómo un mismo sistema conecta prospección y ventas, producción, compras,
 distribución, administración, centros de trabajo, catálogo/inventario y marketing.*

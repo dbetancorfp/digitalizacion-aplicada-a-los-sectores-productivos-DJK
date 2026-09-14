@@ -186,7 +186,7 @@ hacer según la normativa interna de la empresa.
 Otra clasificación, la que usa el libro de texto de referencia, compara la IA con la
 capacidad humana:
 
-![Esquema en forma de árbol: "Inteligencia artificial" se divide en "Tipo I" (IA débil, IA fuerte, IA simbólica, IA subsimbólica) y "Tipo II" (Máquinas reactivas, Memoria limitada, Teoría de la mente, Autoconcepto)](img_resumen/diagrama_tipos_ia_I_II.png)
+![Esquema en forma de árbol: "Inteligencia artificial" se divide en "Tipo I" (IA débil, IA fuerte, IA simbólica, IA subsimbólica) y "Tipo II" (Máquinas reactivas, Memoria limitada, Teoría de la mente, Autoconcepto)](img_resumen/diagrama_tipos_ia_I_II.jpeg)
 *Figura: diagrama de los tipos de IA. Origen: `UD4.pdf` (Fig. 4.3).*
 
 **Tipo I** (según su nivel de autonomía y aprendizaje):
@@ -674,7 +674,7 @@ datos** propiamente dicha (aplicación de los algoritmos: clasificación, regres
 *clustering*, reglas de asociación...) y, por último, **interpretación y evaluación** de
 los patrones obtenidos.
 
-![Esquema del proceso de minería de datos: conjuntos de datos → preprocesamiento → clasificación → base de datos → estadísticas → análisis → evaluación](img_resumen/mineria_de_datos_proceso.png)
+![Esquema del proceso de minería de datos: conjuntos de datos → preprocesamiento → clasificación → base de datos → estadísticas → análisis → evaluación](img_resumen/mineria_de_datos_proceso.jpeg)
 *Figura: el proceso de minería de datos detecta relaciones y patrones que a priori no parecían tener relación entre sí. Origen: `UD4.pdf` (Fig. 4.15).*
 
 Las técnicas de minería de datos se agrupan en dos grandes tipos: **predictivas** (usan
