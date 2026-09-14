@@ -1,4 +1,4 @@
-# UT4 — Inteligencia Artificial
+# UT4 – Inteligencia Artificial
 
 ## De qué va esta unidad
 

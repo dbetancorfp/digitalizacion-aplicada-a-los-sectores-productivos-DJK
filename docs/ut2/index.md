@@ -1,4 +1,4 @@
-# UT2 — Tecnologías habilitadoras digitales
+# UT2 – Tecnologías habilitadoras digitales
 
 ## De qué va esta unidad
 

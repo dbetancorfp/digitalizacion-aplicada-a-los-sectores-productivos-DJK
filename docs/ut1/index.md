@@ -1,4 +1,4 @@
-# UT1 — Digitalización en la 4ª revolución industrial
+# UT1 – Digitalización en la 4ª revolución industrial
 
 ## De qué va esta unidad
 

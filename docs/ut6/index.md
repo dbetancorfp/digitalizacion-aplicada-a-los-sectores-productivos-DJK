@@ -1,4 +1,4 @@
-# UT6 — Proyecto de transformación digital
+# UT6 – Proyecto de transformación digital
 
 ## De qué va esta unidad
 

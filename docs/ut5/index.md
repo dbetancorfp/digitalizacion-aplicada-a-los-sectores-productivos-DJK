@@ -1,4 +1,4 @@
-# UT5 — Datos y ciberseguridad
+# UT5 – Datos y ciberseguridad
 
 ## De qué va esta unidad
 
