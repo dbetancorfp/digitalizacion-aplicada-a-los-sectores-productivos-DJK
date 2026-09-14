@@ -1,4 +1,4 @@
-# DJK – Digitalización aplicada a los sectores productivos
+# Digitalización aplicada a los sectores productivos - DJK
 
 Apuntes de estudio del módulo **DJK · Digitalización aplicada a los sectores
 productivos** (RD 659/2023, Anexo VII).
