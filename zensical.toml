@@ -6,8 +6,8 @@ site_author = "David Betancor"
 
 copyright = "Copyright &copy; 2026 David Betancor"
 
-repo_url = "https://github.com/dbetancorfp/digitalizacion-aplicada-a-los-sectores-productivos-DJK"
-repo_name = "dbetancorfp/digitalizacion-aplicada-a-los-sectores-productivos-DJK"
+# repo_url = "https://github.com/dbetancorfp/digitalizacion-aplicada-a-los-sectores-productivos-DJK"
+# repo_name = "dbetancorfp/digitalizacion-aplicada-a-los-sectores-productivos-DJK"
 
 nav = [
   { "Inicio" = "index.md" },
